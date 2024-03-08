@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(212, 212, 212);
+}
+.container{
+    margin-top: 15%;
+}
+p{
+    font-size: 12px;
+    color: grey;
+    text-align: center;
+}
+#cardFooter{
+   display: none;
+}
